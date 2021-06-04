@@ -2,7 +2,8 @@
 - 👀 I’m interested in working with code. 
 - 🌱 I’m currently learning more code 
 - 💞️ I’m try to work with code .. 
-- 📫 How to reach me .
+- 📫 Just mess me at programmingum@gmail.com .
+🚀Hope you guy help me 🧀 🧀 🧀
 
 <!---
 nguyentri-art/nguyentri-art is a ✨ special ✨ repository because its readme.md (this file) appears on your GitHub profile.
