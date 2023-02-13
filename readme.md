@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning more code 
 - 💞️ I’m do work with code .. 
 - 📫 Just mess me at programmingum@gmail.com .
-🚀Hope you guy help me 🧀 🧀 🧀
+🚀🚀🚀 Get in the board 🧀 🧀 🧀
 
 <!---
-nguyentri-art/nguyentri-art is a ✨ special ✨ repository because its readme.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+nguyentri-art/nguyentri-art is a ✨ special ✨
 --->
