@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyentri-art
-- 👀 I’m interested in working with code. Cancel changes
+- 👀 I’m interested in working with code.
 - 🌱 I’m currently learning more code 
 - 💞️ I’m do work with code .. 
 - 📫 Just mess me at programmingum@gmail.com .
