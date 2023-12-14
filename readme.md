@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **ngtri1410@gmail.com**
 
+<img src="https://th.bing.com/th/id/R.24cd3d3a0770ecd69f5e1e4b8893cd10?rik=jUTR59aCD2GL%2bQ&pid=ImgRaw&r=0" alt="Coding" width="100%" height="100%">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ngtri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ngtri" height="30" width="40" /></a>
