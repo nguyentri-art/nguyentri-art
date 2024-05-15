@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ng Tri</h1>
 <h3 align="center">A pure passion coding from saigon-vietnam</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Everything** :D
 
 - 👨‍💻 All of my projects are available at [https://ngtri-porfolio.netlify.app/](https://ngtri-porfolio.netlify.app/)
 
