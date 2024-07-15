@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ngtri-porfolio.netlify.app/](https://ngtri-porfolio.netlify.app/)
 
-- 📫 How to reach me **ngtri1410@gmail.com**
+- 📫 How to reach me **programingum@gmail.com**
 
 <img src="https://th.bing.com/th/id/R.24cd3d3a0770ecd69f5e1e4b8893cd10?rik=jUTR59aCD2GL%2bQ&pid=ImgRaw&r=0" alt="Coding" width="100%" height="100%">
 
