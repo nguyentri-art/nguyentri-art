@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **programingum@gmail.com**
 
-<img src="https://th.bing.com/th/id/R.24cd3d3a0770ecd69f5e1e4b8893cd10?rik=jUTR59aCD2GL%2bQ&pid=ImgRaw&r=0" alt="Coding" width="100%" height="100%">
+<img src="[https://th.bing.com/th/id/R.24cd3d3a0770ecd69f5e1e4b8893cd10?rik=jUTR59aCD2GL%2bQ&pid=ImgRaw&r=0](https://fsa2-assets.imgix.net/assets/Legacy-Media-Imports/image1_190330_150225.jpg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=800&ixlib=php-3.3.1&w=1200)" alt="Coding" width="100%" height="100%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
