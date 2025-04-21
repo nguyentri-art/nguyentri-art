@@ -22,10 +22,4 @@
 🙌 Support
 If you find this project helpful, please ⭐ it on GitHub — it really helps!
 Feel free to open an issue or submit a pull request.
-☕ Buy Me a Coffee
-If you'd like to support me: 
- 🦊 Support via MetaMask
-If you'd like to support me with crypto via MetaMask:  
-[![MetaMask](https://img.shields.io/badge/-Donate%20via%20MetaMask-f6851b?logo=metamask&logoColor=white&style=for-the-badge)](https://metamask.app.link/send/0x372B15546731A8349D1f04067627e0DE124ab885)
-
 <p align="center">Made with ❤️ by Ng Tri</p>
